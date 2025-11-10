@@ -1,6 +1,6 @@
 🧠 Real-Time UI Capture Agent
 
-An AI-powered system that automates real-time UI state capture across web applications using Playwright and reasoning models like GPT or LLaVA.
+An AI-powered system that automates real-time UI state capture across web applications using Playwright and reasoning model - GPT 5.
 
 🚀 Features
 
@@ -27,4 +27,4 @@ screenshots/ – captured UI states
 
 👤 Author
 
-Viswa Kasturi • LinkedIn
+Viswa Kasturi 
